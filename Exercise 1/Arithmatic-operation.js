@@ -1,0 +1,20 @@
+let x =7;
+let y = 3;
+
+console.log(x+y);
+console.log(x-y);
+console.log(x*y);
+console.log(x/y);
+console.log(x%y);
+console.log("Increament x");
+console.log(x++);
+console.log(x);
+console.log("Increament y");
+console.log(y++);
+console.log(y);
+console.log("Decreament x");
+console.log(x--);
+console.log(x);
+console.log("Decreament y");
+console.log(y--);
+console.log(y);
